@@ -1,0 +1,13 @@
+.App {
+  margin-top: 50px;
+}
+
+.website-footer {
+  font-size: 14px;
+  margin-top: 50px;
+}
+
+a {
+  color: purple;
+  font-weight: bold;
+}
